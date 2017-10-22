@@ -1,0 +1,347 @@
+html,body,.main_container {
+	height: 100%;
+}
+
+.yut {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 10px: 
+}
+
+.sicon {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 50px;
+}
+
+.icon {
+	padding-left: 100px;
+}
+
+
+/*first image*/
+
+.first_image {
+	background: url("assets/images/image1.jpeg");
+	width: 100%;
+	height: 100%;
+}
+
+.text1 {
+	padding-top: 150px;
+	text-align: center;
+	color: white;
+	font-size: 50PX;
+}
+
+.text2 {
+	color: #979999;
+	text-align: center;
+}
+
+/*second image*/
+
+.second_img {
+	background: url("assets/images/image2.jpeg");
+	width: 100%;
+	height: 100%;
+	padding-top: 1px;
+	padding-bottom: 20px;
+}
+
+.text01 {
+	color: white;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.text02 {
+	color: white;
+	text-align: center;
+}
+
+.text03 {
+	color: white;
+	text-align: center;
+	padding-top: 100px;
+	font-size: 20px;
+}
+
+
+/*3rd clm*/
+
+.clm {
+	padding-bottom: 65px;
+}
+
+.colm3 {	
+	text-align: center;
+	padding-top: 110px;
+	font-size: 20px;
+}
+
+.colm03 {
+	text-align: center;
+	padding-top: 40px;
+	font-size: 20px;
+}
+
+
+/*4th clm*/
+
+.div4 {
+	padding-bottom: 75px;
+}
+
+.icon {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 150px;
+	padding-right: 100px;
+}
+
+.date {
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+.clm_text1 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 40px; 
+	padding-right: 128px;
+}
+
+
+.clm_text2 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 40px; 
+}
+
+
+.clm_text3 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 40px; 
+	padding-right: 230px;
+}
+
+
+/*image3*/
+
+.image03 {
+	background: url("assets/images/image3.jpg");
+	width: 100%;
+	height: 100%;
+}
+
+.img-3 {
+	text-align: center;
+	padding-top: 60px;
+}
+
+.video_txt {
+	color: #C2C2C2;
+	padding-left: 253px;
+	padding-top: 40px;
+	font-size: 20px;
+}
+
+/*5th clm*/
+.clm5 {
+	padding-bottom: 100px;
+}
+
+.heading1 {
+	text-align: center;
+	font-size: 50px;
+	padding-top: 100px;
+	color: #000000;
+}
+
+.heading2 {
+	text-align: center;
+}
+
+.pera3 {
+	text-align: center;
+}
+
+/*img4*/
+
+.img4 {
+	background: url("assets/images/img4.jpeg");
+	width: 100%;
+	height: 100%;
+}
+
+.cicon {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	padding-top: 200px;
+}
+
+.smartph_txt {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+	font-size: 50px;
+}
+
+.smartph_txt2 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+.date_txt {
+	text-align: center;
+	color: white;
+}
+
+
+/*img5*/
+
+.img5 {
+	background: url("assets/images/ab70b250-1400x934.jpeg");
+	width: 100%;
+	height: 100%;
+}
+
+.img5_txt1 {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	padding-top: 200px;
+}
+
+.img5_txt2 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+.img5_txt3 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+.img5_txt4 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+
+/*clm6*/
+
+.clm6_text {
+	padding-top: 100px;
+	font-size: 22px;
+	padding-bottom: 100px;
+	margin: auto 19%;
+} 
+
+
+/*clm7*/
+
+.clm7_txt1 {
+	text-align: center;
+	padding-top: 100px;
+}
+
+.clm7_txt2 {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+
+
+  /*clm8*/
+
+.clm8 {
+	background-color: black;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: #9C9C9C;
+	display: grid;
+}
+
+.clm8_txt1 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.clm8_txt2 {
+	text-align: center;
+	font-size: 10px;
+}
+
+.row01 {
+	text-align: center;
+	color: #9C9C9C;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
