@@ -37,7 +37,24 @@ html,body,.main_container {
 .text2 {
 	color: #979999;
 	text-align: center;
+	padding-bottom: 20px;
 }
+
+.txt_hr01 {
+	margin: auto 45%;
+}
+
+.button1 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.smbl {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+}
+
 
 /*second image*/
 
@@ -53,20 +70,37 @@ html,body,.main_container {
 	color: white;
 	text-align: center;
 	padding-top: 120px;
-	font-size: 50px;
+	font-size: 60px;
 	font-weight: bold;
 }
 
 .text02 {
 	color: white;
 	text-align: center;
+	padding-bottom: 20px;
+}
+
+.txt_hr {
+	margin: auto 45%;
 }
 
 .text03 {
 	color: white;
+	margin: auto 19%;
+	padding-top: 0px;
+	font-size: 22px;
+	padding-top: 30px;
+}
+
+.button2 {
 	text-align: center;
-	padding-top: 100px;
-	font-size: 20px;
+	padding-top: 30px;
+}
+
+.smb2 {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
 }
 
 
@@ -77,15 +111,21 @@ html,body,.main_container {
 }
 
 .colm3 {	
-	text-align: center;
+	margin: auto 19%;
 	padding-top: 110px;
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .colm03 {
+	margin: auto 19%;
+	padding-top: 40px;
+	font-size: 22px;
+}
+
+.button3 {
 	text-align: center;
 	padding-top: 40px;
-	font-size: 20px;
+	padding-bottom: 50px;
 }
 
 
@@ -105,29 +145,39 @@ html,body,.main_container {
 .date {
 	text-align: center;
 	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
+.txt_hr1 {
+	margin: auto 45%;
+}
 
 .clm_text1 {
-	font-size: 18px;
-	text-align: center;
+	font-size: 22px;
+	margin: auto 19%;
 	padding-top: 40px; 
 	padding-right: 128px;
 }
 
 
 .clm_text2 {
-	font-size: 18px;
-	text-align: center;
+	font-size: 22px;
+	margin: auto 19%;
 	padding-top: 40px; 
 }
 
 
 .clm_text3 {
-	font-size: 18px;
-	text-align: center;
+	font-size: 22px;
+	margin: auto 19%;
 	padding-top: 40px; 
 	padding-right: 230px;
+}
+
+.button4 {
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 50px;
 }
 
 
@@ -145,10 +195,21 @@ html,body,.main_container {
 }
 
 .video_txt {
-	color: #C2C2C2;
+	color: white;
 	padding-left: 253px;
 	padding-top: 40px;
-	font-size: 20px;
+	font-size: 24px;
+}
+
+.button5 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.smb5 {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
 }
 
 /*5th clm*/
@@ -158,18 +219,33 @@ html,body,.main_container {
 
 .heading1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 100px;
 	padding-top: 100px;
 	color: #000000;
 }
 
 .heading2 {
-	text-align: center;
+	margin: auto 19%;
+	font-size: 50px;
+	font-weight: bold;
 }
 
 .pera3 {
 	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
+
+.txt_hr1 {
+	margin: auto 45%;
+}
+
+.button6 {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
 
 /*img4*/
 
@@ -204,6 +280,21 @@ html,body,.main_container {
 	color: white;
 }
 
+.txt_hr4 {
+	margin: auto 45%;
+}
+
+.button7 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.smb7 {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+}
+
 
 /*img5*/
 
@@ -217,53 +308,95 @@ html,body,.main_container {
 	text-align: center;
 	font-size: 50px;
 	color: white;
-	padding-top: 200px;
+	padding-top: 150px;
 }
 
 .img5_txt2 {
 	text-align: center;
 	color: white;
 	font-size: 50px;
+	font-weight: bold;
 }
 
 .img5_txt3 {
 	text-align: center;
 	color: white;
 	font-size: 50px;
+	font-weight: bold;
 }
 
 .img5_txt4 {
 	text-align: center;
 	color: white;
 	font-size: 50px;
+	font-weight: bold;
 }
 
+.date_txt {
+	padding-bottom: 20px;
+}
+
+.txt_hr2 {
+	margin: auto 45%;
+}
+
+.button8 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.smb8 {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+}
 
 /*clm6*/
 
 .clm6_text {
 	padding-top: 100px;
 	font-size: 22px;
-	padding-bottom: 100px;
 	margin: auto 19%;
 } 
 
+.button9 {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 100px;
+}
 
 /*clm7*/
 
 .clm7_txt1 {
 	text-align: center;
+	font-size: 100px;
 	padding-top: 100px;
+	font-weight: bold;
 }
 
 .clm7_txt2 {
+	margin: auto 17%;
+	font-weight: bold;
+	font-size: 53px;
+}
+
+.clm7_txt3 {
 	text-align: center;
 	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.txt_hr3 {
+	margin: auto 45%;
+}
+
+.button10 {
+	text-align: center;
+	padding-top: 30px;
 	padding-bottom: 100px;
 }
 
-
-  /*clm8*/
+/*clm8*/
 
 .clm8 {
 	background-color: black;
@@ -289,7 +422,13 @@ html,body,.main_container {
 	padding-top: 20px;
 }
 
-
+.pby {
+	text-align: center;
+	color: #9c9c9c;
+	font-size: 10px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
 
 
 
