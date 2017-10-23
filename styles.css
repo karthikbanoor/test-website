@@ -430,7 +430,13 @@ html,body,.main_container {
 	padding-bottom: 50px;
 }
 
-
+.button01 {
+	background: transparent;
+	padding: 8px 28px;
+	border-radius: 26px;
+	border: 1px solid #eee;
+	color: #ddd;
+}
 
 
 
