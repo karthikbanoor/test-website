@@ -1,0 +1,129 @@
+
+html,body,.main_container {
+	height: 100%;
+	width: 100%;
+}
+
+
+/*headding*/
+
+.yut {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 10px:
+	font-weight:bold; 
+}
+
+.sicon {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 50px;
+}
+
+.icon {
+	padding-left: 100px;
+}
+
+
+/*image1*/
+
+.bg_image {
+	background: url("assets/images/lst_img.jpeg");
+	width: 100%;
+	height:100%;
+}
+
+.main_hdng {
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	padding-top: 25%;
+	padding-bottom: 25px;
+}
+
+.line {
+	margin: auto 45%;
+}
+
+/*text1*/
+
+.text01 {
+	padding-top: 50px;
+	font-size: 40px;
+	font-weight: bold;
+	margin: auto 19%;
+}
+
+.text02 {
+	margin: auto 19%;
+	font-size: 25px;
+	padding-top: 20px;
+}
+
+/*forms*/
+
+.forms {
+	padding-top: 50px;
+	margin: auto 19%;
+}
+
+.form01 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.form02 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.form4 {
+	padding-right: 70%;
+	padding-bottom: 20%;
+}
+
+/*button*/
+
+.button1 {
+	margin: auto 19%;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.button01 {
+	background: transparent;
+	padding: 17px 45px;
+	border-radius: 26px;
+	border: 1px solid black;
+	color: black;
+}
+
+
+/*last1*/
+
+.last1 {
+	background-color: black;
+	height: 100%;
+}
+
+.heading04 {
+	text-align: center;
+	padding-top: 30px;
+	color: #9c9c9c;
+}
+
+.row01 {
+	text-align: center;
+	color: #9C9C9C;
+	padding-top: 40px;
+	padding-bottom: 179px;
+}
+
+.lst_txt {
+	background-color: black;
+	padding-bottom: 50px;
+	padding-top: 100px;
+	text-align: center;
+	color: #9c9c9c;
+}
