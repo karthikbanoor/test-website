@@ -1,0 +1,403 @@
+
+html,body,.main_container {
+	height: 100%;
+	width: 100%;
+}
+
+/*headding*/
+
+.yut {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 10px:
+	font-weight:bold; 
+}
+
+.sicon {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 50px;
+}
+
+.icon {
+	padding-left: 100px;
+}
+
+/*image1*/
+
+.list {
+	padding-bottom: 50px;
+}
+
+.f_image {
+	background: url("assets/images/style-guide1.jpeg");
+	width: 100%;
+	height: 100%;
+}
+
+.sg {
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 20%;
+}
+
+/*text1*/
+
+.text1 {
+	padding-top: 40px;
+	margin: auto 21%;
+	font-size: 19px;
+}
+
+/*text2*/
+
+.text2 {
+	font-weight: bold;
+	margin: auto 16%;
+	padding-top: 40px;
+}
+
+/*grp images1*/
+
+.grp_images1 {
+	padding-top: 30px;
+}
+
+.pick1 {
+	padding-left: 28%;
+}
+
+.pick2 {
+	width: 50%;
+}
+
+.pick3 {
+	padding-top: 2px;
+}
+
+/*grp images2*/
+
+.grp_images2 {
+	padding-top: 4px;
+}
+
+.pick4 {
+	padding-left: 67%;
+}
+
+.pick5 {
+	padding-left: 67%;
+	padding-top: 4px;
+}
+
+.pick6 {
+	margin-left: 177px;
+}
+
+/*grp images3*/
+
+.grp_images3 {
+	padding-top: 4px;
+}
+
+.pick7 {
+	padding-left: 40%;
+}
+
+.pick8 {
+	padding-left: 76px;
+}
+
+
+/*grp images4*/
+
+.grp_images4 {
+	padding-top: 4px;
+}
+
+.pick9 {
+	padding-left: 69%;
+}
+
+.pick10 {
+	padding-left: 160px;
+}
+
+.pick11 {
+	padding-left: 104px;
+}
+
+
+/*grp images5*/
+
+.grp_images5 {
+	padding-top: 4px;
+}
+
+.pick12 {
+	padding-left: 40%;
+}
+
+.pick13 {
+	padding-left: 40px;
+}
+
+
+/*text3*/
+
+.text3 {
+	font-weight: bold;
+	margin: auto 15%;
+	padding-top: 80px;
+}
+
+
+/*grp images6*/
+
+.grp_images6 {
+	padding-top: 30px;
+}
+
+.pick14 {
+	padding-left: 64%;
+}
+
+.pick15 {
+	padding-left: 160px;
+}
+
+.pick16 {
+	padding-left: 119px;
+}
+
+
+/*grp images7*/
+
+.grp_images7 {
+	padding-top: 4px;
+}
+
+.pick17 {
+	padding-left: 64%;
+}
+
+.pick18 {
+	padding-left: 160px;
+}
+
+.pick19 {
+	padding-left: 119px;
+	width: 133%;
+}
+
+/*text4*/
+
+.heading01 {
+	margin: auto 15%;
+	padding-top: 60px;
+}
+
+.heading1 {
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.heading2 {
+	font-size: 50px;
+	font-weight: bold;
+	padding-top: 25px;
+}
+
+
+.heading3 {
+	font-size: 41px;
+	font-weight: bold;
+	padding-top: 25px;
+}
+
+.heading4 {
+	font-size: 34px;
+	font-weight: bold;
+	padding-top: 25px;
+}
+
+.heading5 {
+	font-size: 27px;
+	font-weight: bold;
+	padding-top: 25px;
+}
+
+.heading6 {
+	font-size: 23px;
+	font-weight: bold;
+	padding-top: 25px;
+}
+
+
+/*text5*/
+
+.heading02 {
+	margin:auto 15%;
+	padding-top: 40px;
+	font-weight: bold;
+}
+
+.pera1 {
+	padding-top: 20px;
+	font-size: 26px;
+	padding-left: 23%
+}
+
+.text5 {
+	padding-top: 20px;
+}
+
+.para2 {
+	padding-top: 12px;
+	padding-left: 28%;
+	font-weight: bold;
+}
+
+.para3 {
+	font-size: 26px;
+	margin: auto 15%;
+}
+
+.text6 {
+	padding-top: 40px;
+}
+
+.para4 {
+	font-size: 26px;
+	margin: auto 47%;
+}
+
+.para5 {
+	font-size: 26px;
+	margin: auto 13%;
+}
+
+.para6 {
+	font-size: 26px;
+	margin: auto 15%;
+}
+
+/*table*/
+
+.table1 {
+	margin: auto 15%;
+	padding-top: 80px;
+	font-weight: bold;
+	padding-bottom: 50px;
+}
+
+.full_table {
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.clm1 {
+	font-size: 23px;
+}
+
+.clm {
+	font-size: 25px;
+}
+
+
+/*list items*/
+
+.m_heading {
+	padding-top: 75px;
+	margin: auto 15%;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+.list1 {
+	padding-top: 40px;
+	font-size: 25px;
+	margin: auto 15%;
+	padding-bottom: 50px;
+}
+
+
+/*code*/
+
+.code_bg {
+	background-color: #f5f5f5;
+}
+
+.code1 {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 15%;
+	padding-bottom: 40px;
+}
+
+.code01 {
+	padding-top: 50px;
+	font-size: 25px;
+	margin: auto 15%;
+}
+
+
+/*blockquotes*/
+
+.block {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 15%;
+}
+
+.bq_pera1 {
+	padding-top: 30px;
+	font-size: 25px;
+	margin: auto 15%;
+}
+
+.bq_para2 {
+	padding-top: 30px;
+	font-size: 25px;
+	font-weight: bold;
+	margin: auto 19%;
+}
+
+.bq_para3 {
+	padding-top: 25px;
+	font-size: 25px;
+	margin: auto 15%;
+	padding-bottom: 50px;
+}
+
+
+/*last1*/
+
+.last1 {
+	background-color: black;
+	height: 100%;
+}
+
+.heading01 {
+	text-align: center;
+	padding-top: 30px;
+	color: #9c9c9c;
+}
+
+.row01 {
+	text-align: center;
+	color: #9C9C9C;
+	padding-top: 40px;
+	padding-bottom: 180px;
+}
+
+.lst_txt {
+	background-color: black;
+	padding-bottom: 50px;
+	padding-top: 100px;
+	text-align: center;
+	color: #9c9c9c;
+}
+
