@@ -1,0 +1,165 @@
+
+html,body,.main_container {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	padding-bottom: 10px;
+}
+
+/*headding*/
+
+.yut {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 10px:
+	font-weight:bold; 
+}
+
+.sicon {
+	padding-top: 20px;
+	font-size: 20px;
+	padding-left: 50px;
+}
+
+.icon {
+	padding-left: 100px;
+}
+
+
+/*image1*/
+
+.bg_image {
+	background-image: url("assets/images/archives img.jpeg");
+	width: 100%;
+	height: 100%;
+	padding-top: 50px;
+}
+
+.hdng1 {
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 20%;
+}
+
+
+/*text1*/
+
+.text1 {
+	padding-top: 65px;
+	font-size: 26px;
+	margin: auto 12%;
+}
+
+/*yearly*/
+
+.yearly1 {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 12%;
+	font-size: 45px;
+}
+
+.year {
+	font-size: 24px;
+	margin: auto 12%;
+	padding-top: 21px;
+}
+
+/*monthly*/
+
+.monthly1 {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 12%;
+	font-size: 45px;
+}
+
+
+.date {
+	font-size: 24px;
+	margin: auto 12%;
+	padding-top: 21px;
+}
+
+/*authors*/
+
+.author1 {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 12%;
+	font-size: 45px;
+}
+
+.felix {
+	font-size: 24px;
+	margin: auto 12%;
+	padding-top: 21px;	
+}
+
+/*categ*/
+
+.cate {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 12%;
+	font-size: 45px;
+}
+
+.list1 {
+	font-size: 24px;
+	margin: auto 12%;
+	padding-top: 21px;	
+}
+
+/*tags*/
+.tags1 {
+	padding-top: 50px;
+	font-weight: bold;
+	margin: auto 12%;
+	font-size: 45px;
+}
+
+.tags2 {
+	font-size: 20px;
+	margin: auto 12%;
+	padding-top: 21px;
+}
+
+.tags3 {
+	font-size: 33px;
+	margin: auto 12%;
+	padding-top: 21px;
+	padding-bottom: 50px;
+}
+
+/*last1*/
+
+.last1 {
+	background-color: black;
+	height: 100%;
+}
+
+.heading04 {
+	text-align: center;
+	padding-top: 30px;
+	color: #9c9c9c;
+}
+
+.row01 {
+	text-align: center;
+	color: #9C9C9C;
+	padding-top: 40px;
+	padding-bottom: 180px;
+}
+
+.lst_txt {
+	background-color: black;
+	padding-bottom: 50px;
+	padding-top: 100px;
+	text-align: center;
+	color: #9c9c9c;
+}
